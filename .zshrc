@@ -3,14 +3,6 @@ set -C
 export JAVA_HOME="/home/ryan/software/jdk1.8.0_144"
 export PATH=$JAVA_HOME/bin:$PATH
 
-alias clean="rm -rf *~"
-alias gitryan="git checkout dev_ryan"
-alias gitdev="git checkout develop"
-alias gitmst="git checkout master"
-
-alias mysqleur="mysql -ueurecab -peurecab -b db_eurecab"
-alias sshdev="ssh forge@test.eure.cab"
-alias sshprod="ssh -i /home/ryan/.ssh/eurecab forge@eurecab.com"
 
 eval `dircolors ~/.dir_colors/dircolors`
 DEFAULT_USER=ryan
