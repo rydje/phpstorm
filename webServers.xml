@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2b62b241-1cb9-4dfa-a816-d65de44a8218" name="eurecab" url="http://eurecab.local">
+        <fileTransfer port="0" mountedRoot="/var/www/eurecab" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</application>
