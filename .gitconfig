@@ -1,0 +1,21 @@
+[user]
+	email = ryan@eurecab.com
+	name = Ryan Djebrouni
+[core]
+	editor = vim
+[color]
+	ui = always
+[color "branch"]
+	current = yellow bold
+	local = green bold
+	remote = cyan bold
+[alias]
+	d = diff --word-diff
+	ds = diff --stat
+	m = merge
+	co = checkout
+	cb = checkout -b
+	s = status -s -b
+	bd = branch -d
+	c = commit -a -m
+	ap = add -p
