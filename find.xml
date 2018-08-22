@@ -13,8 +13,8 @@
     <mask>*.css</mask>
     <mask>AdTra*.php</mask>
     <mask>*.less</mask>
-    <mask>*.js</mask>
     <mask>web*.php</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
