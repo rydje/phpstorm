@@ -15,9 +15,9 @@
     <mask>*.css</mask>
     <mask>AdTra*.php</mask>
     <mask>web*.php</mask>
-    <mask>*.less</mask>
     <mask>*.blade.php</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
