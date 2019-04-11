@@ -20,6 +20,7 @@
     <mask>*blade.php</mask>
     <mask>*.less</mask>
     <mask>*.json</mask>
+    <mask>*.vjs</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
