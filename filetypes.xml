@@ -7,6 +7,7 @@
       <mapping pattern="Auth" type="PLAIN_TEXT" />
       <mapping pattern="Contracts" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk" type="PLAIN_TEXT" />
+      <mapping ext="twig" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
